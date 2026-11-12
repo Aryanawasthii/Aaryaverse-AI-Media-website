@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aryanawasthii.github.io/Aaryaverse-AI-Media-website/sitemap.xml
